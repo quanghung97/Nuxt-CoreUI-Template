@@ -1,6 +1,6 @@
 # nuxt-material-dashboard
 
-> Nuxt material dasboard admin extend creative-tim
+> Nuxt material dasboard admin CoreUI
 
 ## Build Setup
 
